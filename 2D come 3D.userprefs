@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\PaperMovement.cs">
+    <Files>
+      <File FileName="Assets\scripts\PaperMovement.cs" Line="62" Column="24" />
+      <File FileName="Assets\scripts\CameraFollow.cs" Line="24" Column="3" />
+      <File FileName="Assets\scripts\PlatformMovement.cs" Line="28" Column="28" />
+      <File FileName="Assets\scripts\SpinObject.cs" Line="14" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
